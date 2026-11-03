@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WizardsAndWarriors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0adf737f49cb8e662509e85ce0cfaf15c8b7c767")]
 [assembly: System.Reflection.AssemblyProductAttribute("WizardsAndWarriors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WizardsAndWarriors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
