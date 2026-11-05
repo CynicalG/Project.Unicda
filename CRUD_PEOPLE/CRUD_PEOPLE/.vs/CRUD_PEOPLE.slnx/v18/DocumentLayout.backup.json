@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\services\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\services\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\migrations\\2026_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\migrations\\2026_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\migrations\\2026_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\migrations\\2026_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_people\\crud_people\\crud_people\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF07DA3-85B3-4A2D-BC35-0A30AE2025E7}|CRUD_PEOPLE\\CRUD_PEOPLE.csproj|solutionrelative:crud_people\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2026_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\2026_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Migrations\\2026_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\2026_InitialCreate.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Migrations\\2026_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:13:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Services\\Datos.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Services\\Datos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Services\\Datos.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Services\\Datos.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIAwwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:01:26.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:45:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.Designer.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:48:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.cs [Design]",
+              "RelativeToolTip": "CRUD_PEOPLE\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:43:27.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:52:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2026_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\2026_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Migrations\\2026_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\2026_InitialCreate.Designer.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Migrations\\2026_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:12:10.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T20:06:14.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Models\\Persona.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:59:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Program.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:57:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.resx",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Form1.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Form1.resx",
+              "RelativeToolTip": "CRUD_PEOPLE\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-05T19:56:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CRUD_PEOPLE\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PEOPLE\\CRUD_PEOPLE\\CRUD_PEOPLE\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "CRUD_PEOPLE\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:54:28.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
