@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CRUD_LOGIN_PEOPLE.Models
+﻿namespace CRUD_LOGIN_PEOPLE.Models
 {
-    internal class User
+    public class User
     {
+        public int Id { get; set; }
+
+        public string Username { get; set; } = string.Empty;
+
+        public string Password { get; set; } = string.Empty;
     }
 }

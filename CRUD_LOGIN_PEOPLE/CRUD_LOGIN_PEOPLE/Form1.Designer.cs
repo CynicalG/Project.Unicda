@@ -1,16 +1,13 @@
-﻿namespace CRUD_LOGIN_PEOPLE
+﻿
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace CRUD_LOGIN_PEOPLE
 {
     partial class Form1
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,19 +19,39 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.SuspendLayout();
+            // 
+            // Form1
+            // 
+            this.ClientSize = new System.Drawing.Size(569, 261);
+            this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load_1);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private Label IdLabel;
+        private TextBox txtId;
+        private TextBox txtNombre;
+        private TextBox txtApellido;
+        private Label lblNombre;
+        private TextBox txtCorreo;
+        private Label lblApellido;
+        private Label lblCorreo;
+        private DataGridView dgvPersonas;
+        private Button btnBuscar;
+        private Button btnGuardar;
+        private Button btnActualizar;
+        private Button btnEliminar;
+        private Button btnLimpiar;
+        private DataGridViewTextBoxColumn colId;
+        private DataGridViewTextBoxColumn colNombre;
+        private DataGridViewTextBoxColumn colApellido;
+        private DataGridViewTextBoxColumn colCorreo;
+        private Button btnCreateInvoice;
     }
 }
-

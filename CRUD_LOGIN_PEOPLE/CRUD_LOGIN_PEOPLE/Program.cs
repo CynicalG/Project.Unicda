@@ -1,22 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using CRUD_LOGIN_PEOPLE;
+using System;
 using System.Windows.Forms;
 
 namespace CRUD_LOGIN_PEOPLE
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            ApplicationConfiguration.Initialize();
+
+            using (var login = new FormLogin())
+            {
+                if (login.ShowDialog() == DialogResult.OK)
+                {
+                    Application.Run(new Form1());
+                }
+            }
         }
     }
 }
