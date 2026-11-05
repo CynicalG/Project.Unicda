@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\modelo\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\modelo\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|c:\\users\\administrator\\desktop\\project uncda\\wformulario\\videoformulario\\videoformulario\\datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774DE84D-7362-4FC5-887C-312B71F5FA44}|VideoFormulario\\VideoFormulario.csproj|solutionrelative:videoformulario\\datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.cs [Design]",
+              "RelativeToolTip": "VideoFormulario\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:38:17.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\App.config",
+              "RelativeDocumentMoniker": "VideoFormulario\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\App.config",
+              "RelativeToolTip": "VideoFormulario\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-05T05:36:51.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.Designer.cs",
+              "RelativeToolTip": "VideoFormulario\\Form1.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:29:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Form1.cs",
+              "RelativeToolTip": "VideoFormulario\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:22:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Datos\\Usuario.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Datos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Datos\\Usuario.cs",
+              "RelativeToolTip": "VideoFormulario\\Datos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:15:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Modelo\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Modelo\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Modelo\\UsuarioModel.cs",
+              "RelativeToolTip": "VideoFormulario\\Modelo\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:14:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Program.cs",
+              "RelativeDocumentMoniker": "VideoFormulario\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\WFormulario\\VideoFormulario\\VideoFormulario\\Program.cs",
+              "RelativeToolTip": "VideoFormulario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T05:07:59.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

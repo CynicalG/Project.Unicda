@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj",
         "projectName": "Ejercicio3",
-        "projectPath": "c:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\Ejercicio3.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\Programitas\\Ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

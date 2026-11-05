@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.Form1.resources
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\bin\Debug\VideoFormulario.exe.config
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\bin\Debug\VideoFormulario.exe
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\bin\Debug\VideoFormulario.pdb
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.exe
+C:\Users\Administrator\Desktop\Project Uncda\WFormulario\VideoFormulario\VideoFormulario\obj\Debug\VideoFormulario.pdb
