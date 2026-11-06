@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_PERSONAS\CRUD_PERSONAS\obj\Debug\CRUD_PERSONAS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_PERSONAS\CRUD_PERSONAS\obj\Debug\CRUD_PERSONAS.Form1.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_PERSONAS\CRUD_PERSONAS\obj\Debug\CRUD_PERSONAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_PERSONAS\CRUD_PERSONAS\obj\Debug\CRUD_PERSONAS.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_PERSONAS\CRUD_PERSONAS\obj\Debug\CRUD_PERSONAS.csproj.CoreCompileInputs.cache

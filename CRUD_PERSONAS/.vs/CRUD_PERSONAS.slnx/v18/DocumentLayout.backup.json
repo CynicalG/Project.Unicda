@@ -1,0 +1,580 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\forminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_arreglarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_arreglarnombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_arreglarnombre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_arreglarnombre.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_fixrolcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_fixrolcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\202618_fixrolcolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\202618_fixrolcolumn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_fixposmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_fixposmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_addcustomernametoinvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_addcustomernametoinvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_addcustomernametoinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_addcustomernametoinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formselectcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formselectcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formselectcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formselectcashier.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formreports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\forminvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\forminvoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_fixposmodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_fixposmodels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_addinvoicesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_addinvoicesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_addinvoicesystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_addinvoicesystem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\migrations\\20261_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\migrations\\20261_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|c:\\users\\administrator\\desktop\\project uncda\\crud_personas\\crud_personas\\services\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2E0E2F-C791-4BE1-90E9-01CF46818E11}|CRUD_PERSONAS\\CRUD_PERSONAS.csproj|solutionrelative:crud_personas\\services\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:50:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:50:19.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:48:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Form1.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T03:57:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Form1.cs [Design]",
+              "RelativeToolTip": "CRUD_PERSONAS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T03:49:27.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormInvoice.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormInvoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormInvoice.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormInvoice.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAlwD4BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:31:00.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261_ArreglarNombre.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:47:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20261_ArreglarNombre.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_ArreglarNombre.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAowOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:47:15.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261_FixRolColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixRolColumn.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_FixRolColumn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixRolColumn.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_FixRolColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:46:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202618_FixRolColumn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\202618_FixRolColumn.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\202618_FixRolColumn.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\202618_FixRolColumn.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\202618_FixRolColumn.Designer.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAowOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:45:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261_FixPOSModels.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:44:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormUsers.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormUsers.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormUsers.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormUsers.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:39:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormUsers.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormUsers.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormUsers.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:38:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormSelectCashier.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormSelectCashier.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormSelectCashier.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormSelectCashier.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormSelectCashier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:37:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20261_AddCustomerNameToInvoice.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:09:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261_AddCustomerNameToInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_AddCustomerNameToInvoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:10:55.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSelectCashier.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormSelectCashier.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormSelectCashier.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormSelectCashier.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormSelectCashier.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:36:34.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormReports.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormReports.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormReports.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormReports.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormReports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:35:32.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormReports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormReports.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormReports.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormReports.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormReports.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:34:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormLogin.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:33:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormLogin.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:33:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormInvoice.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormInvoice.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\FormInvoice.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\FormInvoice.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\FormInvoice.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:29:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Models\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\InvoiceDetail.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Models\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:28:28.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Invoice.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Models\\Invoice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:27:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Persona.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:26:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\Product.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:26:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Models\\User.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:25:26.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20261_FixPOSModels.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_FixPOSModels.Designer.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwN0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:12:38.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20261_AddInvoiceSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:08:28.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20261_AddInvoiceSystem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_AddInvoiceSystem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:07:01.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20261_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_InitialCreate.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:04:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20261_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Migrations\\20261_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Migrations\\20261_InitialCreate.Designer.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Migrations\\20261_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:03:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Services\\Datos.cs",
+              "RelativeDocumentMoniker": "CRUD_PERSONAS\\Services\\Datos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project Uncda\\CRUD_PERSONAS\\CRUD_PERSONAS\\Services\\Datos.cs",
+              "RelativeToolTip": "CRUD_PERSONAS\\Services\\Datos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T04:01:28.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

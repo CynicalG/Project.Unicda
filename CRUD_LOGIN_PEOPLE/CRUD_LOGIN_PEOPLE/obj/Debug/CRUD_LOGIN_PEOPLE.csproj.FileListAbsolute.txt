@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.Form1.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.FormInvoice.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.FormLogin.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project Uncda\CRUD_LOGIN_PEOPLE\CRUD_LOGIN_PEOPLE\obj\Debug\CRUD_LOGIN_PEOPLE.csproj.CoreCompileInputs.cache
